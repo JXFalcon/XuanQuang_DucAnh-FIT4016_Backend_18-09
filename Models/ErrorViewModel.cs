@@ -1,4 +1,4 @@
-namespace Web_BongDa_Login.Models;
+namespace Web_BongDa.Models;
 
 public class ErrorViewModel
 {

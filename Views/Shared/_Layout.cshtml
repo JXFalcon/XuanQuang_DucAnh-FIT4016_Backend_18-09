@@ -3,17 +3,32 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Web_BongDa_Login</title>
-    <script type="importmap"></script>
+    <title>@ViewData["Title"] - Web_BongDa</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Web_BongDa_Login.styles.css" asp-append-version="true" />
+    <style>
+        .navbar {
+            backdrop-filter: blur(10px);
+            background-color: rgba(255, 255, 255, 0.8) !important;
+            border-bottom: 1px solid #dee2e6;
+        }
+        .nav-link {
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        .nav-link:hover {
+            color: #0d6efd !important;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Web_BongDa_Login</a>
+        <nav class="navbar navbar-expand-sm navbar-light bg-white mb-3 sticky-top">
+            <div class="container">
+                <a class="navbar-brand fw-bold text-primary" asp-area="" asp-controller="Team" asp-action="Index">
+                    <i class="bi bi-trophy-fill me-2"></i>WEB_BONGDA
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -21,30 +36,41 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-controller="Team" asp-action="Index">Bảng xếp hạng</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" href="">Cầu thủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="https://drive.google.com/drive/folders/1WNRsyU9ZPrVFHp9fY2hG-Md04x7SRz6b">Lịch thi đấu</a>
                         </li>
                     </ul>
+                    
+                    <div class="d-flex align-items-center">
+                        <a class="btn btn-link text-dark text-decoration-none me-2" asp-controller="Account" asp-action="Login">Đăng nhập</a>
+                        <a class="btn btn-primary rounded-pill px-4 shadow-sm" asp-controller="Account" asp-action="Register">Đăng ký</a>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2026 - Web_BongDa_Login - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="border-top footer text-muted mt-5">
+        <div class="container text-center py-3">
+            &copy; 2026 - <b>Web_BongDa</b> - <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-decoration-none">Quyền riêng tư</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Styles", required: false)
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
