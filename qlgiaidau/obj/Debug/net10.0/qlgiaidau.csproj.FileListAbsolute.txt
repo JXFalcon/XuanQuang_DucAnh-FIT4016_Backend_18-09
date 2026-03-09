@@ -223,3 +223,29 @@ C:\Users\OS\Documents\java, c#\C#_modern\qlgiaidau\obj\Debug\net10.0\qlgiaidau.p
 C:\Users\OS\Documents\java, c#\C#_modern\qlgiaidau\obj\Debug\net10.0\qlgiaidau.genruntimeconfig.cache
 C:\Users\OS\Documents\java, c#\C#_modern\qlgiaidau\obj\Debug\net10.0\ref\qlgiaidau.dll
 C:\Users\OS\Documents\java, C#\c#_modern\qlgiaidau\obj\Debug\net10.0\compressed\6cefxuqs0w-{0}-m7249auht5-m7249auht5.gz
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.csproj.AssemblyReference.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.GeneratedMSBuildEditorConfig.editorconfig
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.AssemblyInfoInputs.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.AssemblyInfo.cs
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.csproj.CoreCompileInputs.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.MvcApplicationPartsAssemblyInfo.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.RazorAssemblyInfo.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.RazorAssemblyInfo.cs
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.sourcelink.json
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.dll
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\refint\qlgiaidau.dll
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\của tôi\obj\Debug\net10.0\qlgiaidau.pdb
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.csproj.AssemblyReference.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.GeneratedMSBuildEditorConfig.editorconfig
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.AssemblyInfoInputs.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.AssemblyInfo.cs
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.csproj.CoreCompileInputs.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.MvcApplicationPartsAssemblyInfo.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.RazorAssemblyInfo.cache
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.RazorAssemblyInfo.cs
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.sourcelink.json
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.dll
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\refint\qlgiaidau.dll
+D:\XuanQuang_DucAnh-FIT4016_Backend_18-09\qlgiaidau\obj\Debug\net10.0\qlgiaidau.pdb

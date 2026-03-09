@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_BongDa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a0424a7ab755d92faf26e349c20326ba4c61b57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b98d564984196fbf638c6d1a941290bc69989b31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_BongDa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_BongDa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
