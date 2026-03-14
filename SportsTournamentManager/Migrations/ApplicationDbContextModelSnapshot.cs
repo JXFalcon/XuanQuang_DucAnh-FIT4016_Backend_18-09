@@ -224,6 +224,30 @@ namespace cailonma.Migrations
                     b.ToTable("TournamentSponsors");
                 });
 
+            modelBuilder.Entity("SportsTournamentManager.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Role")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("SportsTournamentManager.Models.Venue", b =>
                 {
                     b.Property<int>("Id")
@@ -347,8 +371,12 @@ namespace cailonma.Migrations
 
             modelBuilder.Entity("SportsTournamentManager.Models.Team", b =>
                 {
+<<<<<<< HEAD
                     b.Navigation("Coach")
                         .IsRequired();
+=======
+                    b.Navigation("Coach");
+>>>>>>> d38df2a47898c632d0d71778f6dc0b95abefcf60
 
                     b.Navigation("Players");
                 });
