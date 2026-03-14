@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cailonma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b34f2cf93e1f5a075e2e735e7cc13b7f7bcd8dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3e863da4ef917587deac485b6f3df5110a0af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("cailonma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cailonma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

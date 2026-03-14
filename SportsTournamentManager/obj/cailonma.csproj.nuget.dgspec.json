@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OS\\Documents\\java, C#\\C#_modern\\SportsTournamentManager\\cailonma.csproj": {}
+    "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OS\\Documents\\java, C#\\C#_modern\\SportsTournamentManager\\cailonma.csproj": {
+    "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OS\\Documents\\java, C#\\C#_modern\\SportsTournamentManager\\cailonma.csproj",
+        "projectUniqueName": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj",
         "projectName": "cailonma",
-        "projectPath": "C:\\Users\\OS\\Documents\\java, C#\\C#_modern\\SportsTournamentManager\\cailonma.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OS\\Documents\\java, C#\\C#_modern\\SportsTournamentManager\\obj\\",
+        "projectPath": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
