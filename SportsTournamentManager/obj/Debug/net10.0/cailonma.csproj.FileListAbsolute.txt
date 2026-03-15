@@ -157,7 +157,6 @@ C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\scopedcss\bundle\cailonma.styles.css
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\scopedcss\projectbundle\cailonma.bundle.scp.css
-C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\compressed\uh48dwsjnv-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\compressed\jotzi2t2dm-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\compressed\rh9ty4cfi7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\compressed\qbypdpadow-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -232,3 +231,6 @@ C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\cailonma.pdb
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\cailonma.genruntimeconfig.cache
 C:\Users\OS\Documents\java, C#\C#_modern\SportsTournamentManager\obj\Debug\net10.0\ref\cailonma.dll
+C:\Users\OS\Documents\java, c#\c#_modern\sportstournamentmanager\obj\Debug\net10.0\compressed\f8kurdxh8r-{0}-l89d3y0gsb-l89d3y0gsb.gz
+C:\Users\OS\Documents\java, c#\c#_modern\sportstournamentmanager\obj\Debug\net10.0\compressed\z6s83h1drh-{0}-eynjo8vxmc-eynjo8vxmc.gz
+C:\Users\OS\Documents\java, c#\c#_modern\sportstournamentmanager\obj\Debug\net10.0\compressed\uh48dwsjnv-{0}-3y8m7uxm6z-3y8m7uxm6z.gz
