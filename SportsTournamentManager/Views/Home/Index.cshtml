@@ -6,46 +6,81 @@
 <script src="~/js/home.js"></script>
 
 <div class="home-container">
+
     <!-- Banner -->
-    <div class="home-banner">
-        <h1 class="home-title">🏆 Sports Tournament Manager</h1>
-        <p class="home-subtitle">Nền tảng quản lý giải đấu thể thao toàn diện</p>
-    </div>
+    <div class="banner">
+        <div class="banner-text">
+            <h1 class="title">🏆 Sports Tournament Manager</h1>
+            <p>Quản lý giải đấu thể thao chuyên nghiệp</p>
 
-    <!-- Giới thiệu (căn lề trái) -->
-    <div class="home-intro-left">
-        <h2>Giới thiệu</h2>
-        <p>
-            Sports Tournament Manager giúp bạn dễ dàng tổ chức và quản lý các giải đấu thể thao.
-            Từ việc tạo giải đấu, quản lý địa điểm, thêm nhà tài trợ cho đến lên lịch và theo dõi kết quả trận đấu,
-            tất cả đều được tích hợp trong một hệ thống duy nhất.
-        </p>
-        <p>
-            Với giao diện trực quan và phân quyền rõ ràng (Admin & Viewer), ứng dụng đảm bảo tính bảo mật,
-            đồng thời mang lại trải nghiệm thuận tiện cho người dùng.
-        </p>
-    </div>
-
-    <!-- Các chức năng chính -->
-    <div class="home-sections">
-        <div class="home-card" onclick="location.href='/Tournaments'">
-            <h2>Giải đấu</h2>
-            <p>Tạo và quản lý các giải đấu thể thao.</p>
-        </div>
-
-        <div class="home-card" onclick="location.href='/Venues'">
-            <h2>Địa điểm</h2>
-            <p>Quản lý sân vận động và địa điểm thi đấu.</p>
-        </div>
-
-        <div class="home-card" onclick="location.href='/Sponsors'">
-            <h2>Nhà tài trợ</h2>
-            <p>Thêm và quản lý các nhà tài trợ.</p>
-        </div>
-
-        <div class="home-card" onclick="location.href='/Matches'">
-            <h2>Trận đấu</h2>
-            <p>Lên lịch và theo dõi kết quả trận đấu.</p>
+            <button onclick="location.href='/Tournaments'" class="start-btn">
+                Bắt đầu quản lý
+            </button>
         </div>
     </div>
+
+
+    <!-- Thống kê -->
+    <div class="stats-container">
+
+        <div class="stat-card">
+            <h2 id="tournamentCount">0</h2>
+            <p>Giải đấu</p>
+        </div>
+
+        <div class="stat-card">
+            <h2 id="matchCount">0</h2>
+            <p>Trận đấu</p>
+        </div>
+
+        <div class="stat-card">
+            <h2 id="venueCount">0</h2>
+            <p>Địa điểm</p>
+        </div>
+
+        <div class="stat-card">
+            <h2 id="sponsorCount">0</h2>
+            <p>Nhà tài trợ</p>
+        </div>
+
+    </div>
+
+
+    <!-- Các chức năng -->
+    <div class="card-container">
+
+        <div class="card" onclick="location.href='/Tournaments'">
+            <img src="~/IMG/giaidau.jpg">
+            <div class="card-text">
+                <h2>Giải đấu</h2>
+                <p>Tạo và quản lý giải đấu</p>
+            </div>
+        </div>
+
+        <div class="card" onclick="location.href='/Venues'">
+            <img src="~/IMG/vitri.jpg">
+            <div class="card-text">
+                <h2>Địa điểm</h2>
+                <p>Quản lý sân vận động</p>
+            </div>
+        </div>
+
+        <div class="card" onclick="location.href='/Sponsors'">
+            <img src="~/IMG/taitro.jpg">
+            <div class="card-text">
+                <h2>Nhà tài trợ</h2>
+                <p>Quản lý nhà tài trợ</p>
+            </div>
+        </div>
+
+        <div class="card" onclick="location.href='/Matches'">
+            <img src="~/IMG/trandau.jpg">
+            <div class="card-text">
+                <h2>Trận đấu</h2>
+                <p>Lên lịch và theo dõi trận đấu</p>
+            </div>
+        </div>
+
+    </div>
+
 </div>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OS\\Documents\\java, c#\\c#_modern\\sportstournamentmanager\\cailonma.csproj": {}
+    "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OS\\Documents\\java, c#\\c#_modern\\sportstournamentmanager\\cailonma.csproj": {
+    "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OS\\Documents\\java, c#\\c#_modern\\sportstournamentmanager\\cailonma.csproj",
+        "projectUniqueName": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj",
         "projectName": "cailonma",
-        "projectPath": "C:\\Users\\OS\\Documents\\java, c#\\c#_modern\\sportstournamentmanager\\cailonma.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OS\\Documents\\java, c#\\c#_modern\\sportstournamentmanager\\obj\\",
+        "projectPath": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\cailonma.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\XuanQuang_DucAnh-FIT4016_Backend_18-09\\SportsTournamentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -53,11 +53,8 @@
               "version": "[10.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-<<<<<<< HEAD
-=======
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
->>>>>>> 297e0f6cc757ad06dd46ab25220ccc7b9d324622
               "target": "Package",
               "version": "[10.0.3, )"
             }
